@@ -120,7 +120,7 @@ Run the following in the command-line to install all the required dependencies:
 <!-- You can add the links to all of your imagery at the bottom of the file as references -->
 ## Features and Functionality
 
-![image2](https://raw.githubusercontent.com/MikeMaynard14/termoneexample/main/src/assets/mascot.svg)
+![image2](https://raw.githubusercontent.com/MikeMaynard14/termoneexample/main/src/assets/mockup.jpg);
 ### Feature 1
 
 Description of Feature
