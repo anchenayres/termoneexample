@@ -3,7 +3,7 @@
 <!-- Repository Information & Links-->
 <br />
 
-[GitHub repo size](https://img.shields.io/github/repo-size/MikeMaynard14/termoneexample?color=%000000)
+![GitHub repo size](https://img.shields.io/github/repo-size/MikeMaynard14/termoneexample?color=%000000)
 [GitHub watchers](https://img.shields.io/github/watchers/MikeMaynard14/termoneexample?color=%000000)
 [GitHub language count](https://img.shields.io/github/languages/count/MikeMaynard14/termoneexample?color=%000000)
 [GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MikeMaynard14/termoneexample?color=%000000)
