@@ -11,7 +11,7 @@
 
 <!-- HEADER SECTION -->
 <h5 align="center" style="padding:0;margin:0;">Mike Maynard</h5>
-<h5 align="center" style="padding:0;margin:0;">Lecturer</h5>
+<h5 align="center" style="padding:0;margin:0;">110185</h5>
 <h6 align="center">DV200 | 2022</h6>
 </br>
 <p align="center">
@@ -23,8 +23,9 @@
   <h3 align="center">OpenSpace</h3>
 
   <p align="center">
-    A react project using the Space X Api to demonstrate data visualization using charts js <br>
-      <a href="https://github.com/MikeMaynard14/termoneexample"><strong>Explore the docs »</strong></a>
+    A react project using the Space X Api to demonstrate data visualization using charts js  <br>
+    <i>This However is a template file for DV200 Students!</i> 
+    
    <br />
    <br />
    <a href="path/to/demonstration/video">View Demo</a>
@@ -34,6 +35,7 @@
     <a href="https://github.com/MikeMaynard14/termoneexample/issues">Request Feature</a>
 </p>
 <!-- TABLE OF CONTENTS -->
+
 ## Table of Contents
 
 * [About the Project](#about-the-project)
@@ -76,7 +78,7 @@ A nice introduction to this amazing project of mine.
 
 ### Built With
 
-* [Technology Name](path/to/technology/website)
+* [React](https://reactjs.org/)
 * [Technology Name](path/to/technology/website)
 * [Technology Name](path/to/technology/website)
 
@@ -88,15 +90,14 @@ The following instructions will get you a copy of the project up and running on 
 
 ### Prerequisites
 
-Ensure that you have the latest version of [Software](path/to/where/they/can/download/software) installed on your machine. The [Plugin](path/to/where/they/can/download/plugin) plugin will also be required.
+Ensure that you have the latest version of [NPM](https://www.npmjs.com/) installed on your machine. The [GitHub Desktop](https://desktop.github.com/) program will also be required.
 
 ### How to install
 
 ### Installation
 Here are a couple of ways to clone this repo:
 
-1. Software </br>
-`Android Studio` -> `File` -> `New` -> `From Version Control` -> `Git`</br>
+1. GitHub Desktop </br>
 Enter `https://github.com/MikeMaynard14/termoneexample.git` into the URL field and press the `Clone` button.
 
 2. Clone Repository </br>
@@ -112,17 +113,14 @@ Run the following in the command-line to install all the required dependencies:
    npm install
    ```
 
-4. Get a free API Key at [https://example.com](https://example.com) and enter it in the `config.js` file:
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+4. An API key is not required
 
 
 <!-- FEATURES AND FUNCTIONALITY-->
 <!-- You can add the links to all of your imagery at the bottom of the file as references -->
 ## Features and Functionality
 
-![image2][image2]
+![image2]['https://github.com/MikeMaynard14/termoneexample/src/assets/mascot.svg']
 ### Feature 1
 
 Description of Feature
