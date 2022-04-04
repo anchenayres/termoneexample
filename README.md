@@ -120,10 +120,11 @@ Run the following in the command-line to install all the required dependencies:
 <!-- You can add the links to all of your imagery at the bottom of the file as references -->
 ## Features and Functionality
 
-![image2](https://raw.githubusercontent.com/MikeMaynard14/termoneexample/main/src/assets/mockup.jpg);
-### Feature 1
+<!-- note how you can use your gitHub link. Just make a path to your assets folder -->
+![image2](https://raw.githubusercontent.com/MikeMaynard14/termoneexample/main/src/assets/mockup.jpg)
+### All The Latest Space X Data! 
 
-Description of Feature
+Usding the Space X API, we have collected and collated all the most relevant Space X data into once seemless react experience!
 
 ![image3][image3]
 ### Feature 2
@@ -140,6 +141,7 @@ Description of Feature
 
 <!-- CONCEPT PROCESS -->
 <!-- Briefly explain your concept ideation process -->
+<!-- here you will add things like wireframing, data structure planning, anything that shows your process. You need to include images-->
 ## Concept Process
 
 The `Conceptual Process` is the set of actions, activities and research that was done when starting this project.
@@ -154,7 +156,7 @@ The `Conceptual Process` is the set of actions, activities and research that was
 
 ![image7][image7]
 
-### User-flow
+### Custom UI
 
 ![image8][image8]
 
@@ -165,9 +167,10 @@ The `Development Process` is the technical implementations and functionality don
 
 ### Implementation Process
 <!-- stipulate all of the functionality you included in the project -->
+<!-- This is your time to shine, explain the technical nuances of your project, how did you achieve the final outcome!-->
 
-* Made use of both `functionality` to implement a specific feature.
-* `MVC/MVVM` design architecture implemented.
+* Utilized React `Charts.JS` dependency for Data visualization
+* Implemented Routing with `React-Router v6` design architecture implemented.
 * `Plugin` for this.
 * ETC.
 
