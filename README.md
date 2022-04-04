@@ -1,12 +1,12 @@
-<!-- REPLACE ALL THE [mikemaynard14] TEXT WITH YOUR GITHUB PROFILE NAME & THE [termoneexample] WITH THE NAME OF YOUR GITHUB PROJECT -->
+<!-- REPLACE ALL THE [MikeMaynard14] TEXT WITH YOUR GITHUB PROFILE NAME & THE [termoneexample] WITH THE NAME OF YOUR GITHUB PROJECT -->
 
 <!-- Repository Information & Links-->
 <br />
 
-![GitHub repo size](https://img.shields.io/github/repo-size/mikemaynard14/termoneexample?color=%000000)
-![GitHub watchers](https://img.shields.io/github/watchers/mikemaynard14/termoneexample?color=%000000)
-![GitHub language count](https://img.shields.io/github/languages/count/mikemaynard14/termoneexample?color=%000000)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mikemaynard14/termoneexample?color=%000000)
+[GitHub repo size](https://img.shields.io/github/repo-size/MikeMaynard14/termoneexample?color=%000000)
+[GitHub watchers](https://img.shields.io/github/watchers/MikeMaynard14/termoneexample?color=%000000)
+[GitHub language count](https://img.shields.io/github/languages/count/MikeMaynard14/termoneexample?color=%000000)
+[GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MikeMaynard14/termoneexample?color=%000000)
 
 
 <!-- HEADER SECTION -->
@@ -16,7 +16,7 @@
 </br>
 <p align="center">
 
-  <a href="https://github.com/mikemaynard14/termoneexample">
+  <a href="https://github.com/MikeMaynard14/termoneexample">
     <img src="path/to/logo" alt="Logo" width="140" height="140">
   </a>
   
@@ -24,14 +24,14 @@
 
   <p align="center">
     A react project using the Space X Api to demonstrate data visualization using charts js <br>
-      <a href="https://github.com/mikemaynard14/termoneexample"><strong>Explore the docs »</strong></a>
+      <a href="https://github.com/MikeMaynard14/termoneexample"><strong>Explore the docs »</strong></a>
    <br />
    <br />
    <a href="path/to/demonstration/video">View Demo</a>
     ·
-    <a href="https://github.com/mikemaynard14/termoneexample/issues">Report Bug</a>
+    <a href="https://github.com/MikeMaynard14/termoneexample/issues">Report Bug</a>
     ·
-    <a href="https://github.com/mikemaynard14/termoneexample/issues">Request Feature</a>
+    <a href="https://github.com/MikeMaynard14/termoneexample/issues">Request Feature</a>
 </p>
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -97,12 +97,12 @@ Here are a couple of ways to clone this repo:
 
 1. Software </br>
 `Android Studio` -> `File` -> `New` -> `From Version Control` -> `Git`</br>
-Enter `https://github.com/mikemaynard14/termoneexample.git` into the URL field and press the `Clone` button.
+Enter `https://github.com/MikeMaynard14/termoneexample.git` into the URL field and press the `Clone` button.
 
 2. Clone Repository </br>
 Run the following in the command-line to clone the project:
    ```sh
-   git clone https://github.com/mikemaynard14/termoneexample.git
+   git clone https://github.com/MikeMaynard14/termoneexample.git
    ```
     Open `Software` and select `File | Open...` from the menu. Select cloned directory and press `Open` button
 
@@ -225,7 +225,7 @@ To see a run through of the application, click below:
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/mikemaynard14/termoneexample/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/MikeMaynard14/termoneexample/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -241,7 +241,7 @@ Contributions are what makes the open-source community such an amazing place to 
 <!-- AUTHORS -->
 ## Authors
 
-* **Your Name & Surname** - [mikemaynard14](https://github.com/mikemaynard14)
+* **Your Name & Surname** - [MikeMaynard14](https://github.com/MikeMaynard14)
 
 <!-- LICENSE -->
 ## License
@@ -252,7 +252,7 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 ## Contact
 
 * **Your Name & Surname** - [email@address](mailto:email@address) - [@instagram_handle](https://www.instagram.com/instagram_handle/) 
-* **Project Link** - https://github.com/mikemaynard14/termoneexample
+* **Project Link** - https://github.com/MikeMaynard14/termoneexample
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
