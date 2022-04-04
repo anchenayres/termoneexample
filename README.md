@@ -53,8 +53,6 @@
    * [Implementation Process](#implementation-process)
         * [Highlights](#highlights)
         * [Challenges](#challenges)
-   * [Reviews and Testing](#peer-reviews)
-        * [Feedback from Reviews](#feedback-from-reviews)
    * [Future Implementation](#peer-reviews)
 * [Final Outcome](#final-outcome)
     * [Mockups](#mockups)
