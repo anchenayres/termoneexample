@@ -4,8 +4,8 @@
 <br />
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/MikeMaynard14/termoneexample)
-[GitHub watchers](https://img.shields.io/github/watchers/MikeMaynard14/termoneexample)
-[GitHub language count](https://img.shields.io/github/languages/count/MikeMaynard14/termoneexample)
+![GitHub watchers](https://img.shields.io/github/watchers/MikeMaynard14/termoneexample)
+![GitHub language count](https://img.shields.io/github/languages/count/MikeMaynard14/termoneexample)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MikeMaynard14/termoneexample)
 
 
