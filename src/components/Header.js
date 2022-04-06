@@ -2,6 +2,7 @@ import React from 'react';
 import {Link} from 'react-router-dom'
 import Logo from '../assets/logo.svg';
 import dashIcon from '../assets/dashboard.svg';
+import rocket from '../assets/rockets.svg'; 
 
 const Header = () => {
     return (
@@ -12,8 +13,8 @@ const Header = () => {
                     <Link to="/"><img src={dashIcon}/></Link>   
                 </div>
 
-                <div className='nav_item'>
-                    <Link to="compare">C</Link>  
+                <div className='nav_item rocketcon'>
+                    <Link to="compare"><img src={rocket} /></Link>  
                 </div>
 
                 <div className='nav_item'>

@@ -39,9 +39,6 @@ const DashComOne = (props) => {
         ],
       };
 
-
-
-
     return (
         <div className='dashComOne'>
             <h2>TOTAL SPACE X LAUNCES</h2>

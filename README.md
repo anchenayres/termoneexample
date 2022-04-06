@@ -1,4 +1,4 @@
-<!-- REPLACE ALL THE [MikeMaynard14] TEXT WITH YOUR GITHUB PROFILE NAME & THE [termoneexample] WITH THE NAME OF YOUR GITHUB PROJECT -->
+
 
 <!-- Repository Information & Links-->
 <br />
@@ -12,7 +12,7 @@
 <!-- HEADER SECTION -->
 <h5 align="center" style="padding:0;margin:0;">Mike Maynard</h5>
 <h5 align="center" style="padding:0;margin:0;">110185</h5>
-<h6 align="center">DV200 | 2022</h6>
+<h6 align="center">DV200 - Term 1 | 2022</h6>
 </br>
 <p align="center">
 
@@ -117,6 +117,7 @@ Run the following in the command-line to install all the required dependencies:
 
 <!-- note how you can use your gitHub link. Just make a path to your assets folder -->
 ![image2](https://raw.githubusercontent.com/MikeMaynard14/termoneexample/main/src/assets/mockup.jpg)
+
 ### All The Latest Space X Data! 
 
 Usding the Space X API, we have collected and collated all the most relevant Space X data into once seemless react experience!
@@ -237,3 +238,5 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 * [Resource Name](path/to/resource)
 * [Resource Name](path/to/resource)
 * [Resource Name](path/to/resource)
+
+
